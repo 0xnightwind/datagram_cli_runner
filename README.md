@@ -1,5 +1,7 @@
 # Datagram CLI Runner
 
+Register using https://dashboard.datagram.network?ref=881224553 the follow the below steps.
+
 A simple script to run the Datagram CLI environment quickly without needing to clone or manually set permissions.
 
 ## 🚀 Quick Start
