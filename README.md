@@ -21,5 +21,5 @@ tmux attach -t datagram
 
 - Command to clean up old .db for Linux installs:
 ```bash
-bash rm -rf ~/.datagram/ai-router/.db
+rm -rf ~/.datagram/ai-router/.db
 ```
