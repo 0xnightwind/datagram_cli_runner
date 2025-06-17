@@ -23,7 +23,7 @@ fi
 tmux new -s datagram -d
 
 # 5) ask for the key
-echo "Enter the API KEY (copy it from wallet->license): "
+echo "Please enter your Datagram License key (find it at https://dashboard.datagram.network/wallet?tab=licenses): "
 read API_KEY
 
 # 5) run the cli
