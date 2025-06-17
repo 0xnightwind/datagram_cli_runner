@@ -18,3 +18,8 @@ bash <(wget -qO- https://raw.githubusercontent.com/0xnightwind/datagram_cli_runn
 ```bash
 tmux attach -t datagram
 ```
+
+- Command to clean up old .db for Linux installs:
+```bash
+bash rm -rf ~/.datagram/ai-router/.db
+```
